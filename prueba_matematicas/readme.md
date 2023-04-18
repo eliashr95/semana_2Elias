@@ -6,7 +6,7 @@
 
 3.Dan "3 personas estudiaron matematicas ayer "
 
-4. Eva "ayer estudiaron matematicas 4 personas "
+4.Eva "ayer estudiaron matematicas 4 personas "
 
 Ninguna de las respuestas anterirores puede ser acertada ya que se contradicen entre ellas
 
