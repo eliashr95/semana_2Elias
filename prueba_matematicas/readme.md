@@ -10,4 +10,4 @@
 
 Ninguna de las respuestas anterirores puede ser acertada ya que se contradicen entre ellas
 
-po lo tanto Bob esta diciendo la verdad, aunque  no sea el que estudio matematicas. 
+po lo tanto Bob esta diciendo la verdad, aunque  no sea el, el que estudio matematicas. 
