@@ -1,4 +1,5 @@
 Algoritmo detectEvenOdd
+
 	Imprimir 'Ingrese número a verificar'
 	Leer x
 	Si x % 2 == 0 Entonces
