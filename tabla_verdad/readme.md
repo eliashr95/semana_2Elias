@@ -1,4 +1,5 @@
 # TAbla verdad
+
 T &T = T✅
 V &F = F✅
 F &T = T❌
